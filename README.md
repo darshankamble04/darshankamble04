@@ -19,7 +19,6 @@
 
 
 <hr/>
-<br/>
 
 
 ## :dart: Find me Interesting? 
@@ -30,3 +29,4 @@
  - 👀 Ping me on [Twitter](https://twitter.com/darshankamble04)
 
  - 📧 [@darshankamble7371@gmail.com](mailto:darshankamble7371@gmail.com)
+<hr/>
