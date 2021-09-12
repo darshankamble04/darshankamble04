@@ -1,11 +1,12 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Darshan!](https://github.com/darshankamble04) 
 
-<br/><br/>
+<br/>
 
 ### About Me 🚀
 🎓 I’m Bachelors in Computer Science & Engineering @ Dr. D.Y Patil Institute Of Technology,Pimpri,Pune . </br>
 👨‍💻  I am passionate about Web Development and Exploring new things </br>
 
+<br/>
 
 ## My skills 🚀
 
@@ -15,6 +16,8 @@
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<br/>
 
 <hr/>
 
