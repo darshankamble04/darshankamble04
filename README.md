@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Darshan!](https://github.com/darshankamble04) 
 
-<hr/>
+<br/><br/>
 
 ### About Me 🚀
 🎓 I’m Bachelors in Computer Science & Engineering @ Dr. D.Y Patil Institute Of Technology,Pimpri,Pune . </br>
