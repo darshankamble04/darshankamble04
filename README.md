@@ -25,8 +25,7 @@
 **Say Hi to me on [LinkedIn](https://www.linkedin.com/in/darshankamble/)** :heart: 
 
 #### Any Project you want me a part of ?
-
- - 👀 Ping me on [Twitter](https://twitter.com/darshankamble04)
+<!--  - 👀 Ping me on [Twitter](https://twitter.com/darshankamble04) -->
 
  - 📧 [@darshankamble7371@gmail.com](mailto:darshankamble7371@gmail.com)
 <hr/>
