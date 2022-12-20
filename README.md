@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Darshan!](https://myportfolio-darshankamble.herokuapp.com/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Darshan!](https://darshankamble04.github.io/portfolio-darshankamble/) 
 
 
 
@@ -22,7 +22,7 @@
 
 
 ## :dart: Find me Interesting? 
-**Say Hi to me on [LinkedIn](https://www.linkedin.com/in/darshankamble/)** :heart: 
+**Say Hi to me on [LinkedIn](https://www.linkedin.com/in/darshankamble04/)** :heart: 
 
 #### Any Project you want me a part of ?
 <!--  - 👀 Ping me on [Twitter](https://twitter.com/darshankamble04) -->
